@@ -1,0 +1,15 @@
+{
+   "firstName": "M",
+   "lastName": "Faris",
+   "gender": "male",
+   "age": 19,
+   "address": {
+       "streetAddress": "Karangmoncol",
+       "city": "Purbalingga",
+       "state": "Jawa Tengah"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2XX", "name": "Basis Data" }
+   ]
+}
