@@ -1,0 +1,10 @@
+{
+  "name": "libraryConstruction",
+  "version": "1.0.0",
+  "description": "Library untuk menghitung akar dan hasil kuadrat persamaan kuadrat",
+  "main": "src/aljabarLibrary.js",
+  "type": "commonjs",
+  "keywords": ["aljabar", "math", "kuadrat", "akar", "library"],
+  "author": "Nama Kamu",
+  "license": "MIT"
+}
