@@ -36,7 +36,7 @@ function hasilKuadrat(persamaan) {
   return [a2, ab2, b2];
 }
 
-// Ekspor fungsi
+
 module.exports = {
   akarPersamaanKuadrat,
   hasilKuadrat

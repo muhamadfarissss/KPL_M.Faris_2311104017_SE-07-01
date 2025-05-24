@@ -1,5 +1,3 @@
-// src/matematika.js
-
 // FPB
 export function FPB(a, b) {
   while (b !== 0) {
@@ -15,7 +13,7 @@ export function KPK(a, b) {
   return Math.abs((a * b) / FPB(a, b));
 }
 
-// Turunan: e.g., [1, 4, -12, 9] → "3x2 + 8x - 12"
+
 export function Turunan(coeffs) {
   const terms = [];
   const degree = coeffs.length - 1;
@@ -33,7 +31,7 @@ export function Turunan(coeffs) {
   return terms.join(" ");
 }
 
-// Integral: e.g., [4, 6, -12, 9] → "x4 + 2x3 - 6x2 + 9x + C"
+
 export function Integral(coeffs) {
   const terms = [];
   const degree = coeffs.length - 1;
